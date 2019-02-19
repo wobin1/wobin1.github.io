@@ -1,0 +1,89 @@
+
+body{
+	background-color: #333;
+	color: #fff;
+}
+
+h4{
+	text-align: center;
+}
+
+
+.navbar{
+	border-bottom: rgb(255, 200, 100) 1px solid;
+	opacity: 0.8 ;
+	background-color: ;
+	font-color: ;
+	font-weight: 30px;
+
+} 
+
+.caption{
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	top: 40%;
+	z-index: 1;
+}
+
+/*.caption h3	{
+	color: white;
+	padding: 2rem;
+}
+*/
+.caption2{
+	width: 100%;
+	max-width: 100%;
+	position: relative;
+	top: 200px;
+	height: 100px
+	z-index: 1;
+	text-transform: uppercase;
+}
+
+.caption2 h1, {
+	padding: 2rem;
+}
+
+.about-head{
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 1rem;
+}
+
+#home-section{
+	background:url(img/nats.jpeg) no-repeat;
+	min-height: 500px;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#service-head-section{
+	background:url(img/service.jpeg) no-repeat;
+	min-height: 500%;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+.dark-overlay{
+	background-color: rgba(0,0,0,0.6);
+	top:0;
+	left: 0;
+	width:100%;
+	min-height: 500px;
+}
+
+#about-head-section {
+	background-color: #333;
+}
+
+#team-head-section {
+	background-color:  rgb(174, 87, 0);
+}
+
+
+#main-footer {
+	background-color:  rgb(174, 87, 0);
+}
